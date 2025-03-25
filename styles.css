@@ -1,3 +1,18 @@
 .image_class {
-    height: 400px;
+    height: 350px;
+}
+
+#navbar_logo {
+    height: 40px;
+}
+
+body {
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+}
+
+.container {
+	background-color: rgba(255, 255, 0, 0.85);
+	border-radius: 10px;
+	padding: 5px;
 }
