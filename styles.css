@@ -24,3 +24,15 @@ body {
 	border-radius: 5px;
 	border: solid black 1px;
 }
+
+.image_class2 {
+	height: 350px;
+	width: 400px;
+}
+
+.imagesborders2 {
+	margin: 15px;
+	padding: 0px;
+	border-radius: 5px;
+	border: solid black 1px;
+}
