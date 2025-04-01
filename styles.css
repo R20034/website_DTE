@@ -38,3 +38,18 @@ body {
 	border-radius: 5px;
 	border: solid black 1px;
 }
+
+.logo_class {
+	height: 350px;
+	width: 350px;
+}
+
+.logo_class2 {
+	height: 325px;
+	width: 650px;
+}
+
+.logo_class3 {
+	height: 350px;
+	width: 425px;
+}
