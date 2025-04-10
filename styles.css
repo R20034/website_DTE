@@ -8,14 +8,13 @@
 }
 
 body {
-	background-color: rgb(255, 255, 255);
-	background-image: url("images/background.jpg");
+	background: linear-gradient(to right, #00af89 0%,#775b00 50%,#00861d 100%);
 	background-size: cover;
 	padding: 10px;
 }
 
 .container {
-	background-color: rgba(110, 0, 153, 0.95);
+	background-color: rgba(155, 0, 202, 0.95);
 	border-radius: 10px;
 	padding: 5px;
 }
